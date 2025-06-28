@@ -10,7 +10,7 @@ Whether it's machine learning, web development, data analysis, or automation, ea
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [Customer Mood Prediction](./Customer%20Mood%20Prediction.ipynb) | Predicts customer moods based on demographic inputs using a Random Forest Classifier | Python, scikit-learn |
+| [Customer Mood Prediction]| Predicts customer moods based on demographic inputs using a Random Forest Classifier | Python, scikit-learn |
 
 ---
 
