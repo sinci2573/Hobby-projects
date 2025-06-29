@@ -13,6 +13,8 @@ Whether it's machine learning, web development, data analysis, or automation, ea
 | Customer Mood Prediction| Predicts customer moods based on demographic inputs using a Random Forest Classifier | Python, scikit-learn |
 | COOKAI: Transforming Ingredients into Recipes | Retrieves structured recipes (ingredients + steps) from a dataset based on recipe name input | Python, pandas, data cleaning |
 | Document Clustering with Text Mining | Clusters documents into meaningful groups using NLP and unsupervised learning techniques like K-Means, DBSCAN, and Hierarchical Clustering | Python, NLP, TF-IDF, scikit-learn |
+| DMW Clustering Experiments | Step-by-step Jupyter notebooks from preprocessing to evaluation of document clustering using TF-IDF, PCA, and clustering algorithms | Python, scikit-learn, matplotlib, NLP, unsupervised learning |
+| Exploratory Data Analysis (EDA) Series | A structured collection of notebooks demonstrating various EDA techniques and best practices | Python, pandas, seaborn, matplotlib, scikit-learn |
 
 ---
 
