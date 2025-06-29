@@ -12,6 +12,7 @@ Whether it's machine learning, web development, data analysis, or automation, ea
 |--------|-------------|------------|
 | Customer Mood Prediction| Predicts customer moods based on demographic inputs using a Random Forest Classifier | Python, scikit-learn |
 | COOKAI: Transforming Ingredients into Recipes | Retrieves structured recipes (ingredients + steps) from a dataset based on recipe name input | Python, pandas, data cleaning |
+| Document Clustering with Text Mining | Clusters documents into meaningful groups using NLP and unsupervised learning techniques like K-Means, DBSCAN, and Hierarchical Clustering | Python, NLP, TF-IDF, scikit-learn |
 
 ---
 
