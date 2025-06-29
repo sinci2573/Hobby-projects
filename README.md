@@ -11,6 +11,7 @@ Whether it's machine learning, web development, data analysis, or automation, ea
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | Customer Mood Prediction| Predicts customer moods based on demographic inputs using a Random Forest Classifier | Python, scikit-learn |
+| COOKAI: Transforming Ingredients into Recipes | Retrieves structured recipes (ingredients + steps) from a dataset based on recipe name input | Python, pandas, data cleaning |
 
 ---
 
