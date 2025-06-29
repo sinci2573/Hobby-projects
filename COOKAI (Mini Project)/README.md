@@ -71,5 +71,5 @@ COOKAI/
 │
 ├── INDIAN FOOD RECIPE.csv         # Dataset (80 recipes)
 ├── Mini Project Report.docx       # Full documentation
-├── cookai_recipe_retriever.ipynb  # (If implemented in code form)
+├── cookai_recipe_retriever.ipynb  
 └── README.md                      # You are here
