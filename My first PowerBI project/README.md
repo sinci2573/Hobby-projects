@@ -14,5 +14,3 @@ This Power BI project analyzes sales and customer data for a fictional cafe, **B
 - Customer visit patterns
 - Location-based sales distribution
 
-## File
-- `My first PowerBI project.pbix`: Power BI Dashboard file
